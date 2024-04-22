@@ -65,5 +65,7 @@ CREATE TABLE IF NOT EXISTS Shopping_Cart (
     FOREIGN KEY (Course_ID) REFERENCES Courses(ID)
 );
 
-
-![img]("./assets/TP-DDBB-II.png")
+```
+##
+# Database Example Entity-Relationship Diagram
+![Img](assets/TP-DDBB-II.svg)
